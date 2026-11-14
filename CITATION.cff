@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite this research software when using it."
+type: software
+
+title: "EMRLL: Mathematical-Answer Generation Experiments"
+
+authors:
+  - family-names: "Naoui"
+    given-names: "Mohammed Anouar"
+    orcid: "https://orcid.org/0000-0003-1653-531X"
+    affiliation: "Artificial Intelligence and Applications Laboratory, Department of Computer Science, University of Echahid Hamma Lakhdar El-Oued, Algeria"
+
+keywords:
+  - mathematical reasoning
+  - language models
+  - GRPO
+  - QLoRA
+  - reproducibility
+  - evaluation
